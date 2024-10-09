@@ -1,3 +1,3 @@
-Alumno: Juan Pablo Bianchi
-División: 314
+Alumno: Juan Pablo Bianchi\n
+División: 314\n
 Turno: Noche
